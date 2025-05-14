@@ -56,3 +56,28 @@ Projektet tränade oss i praktisk systemutveckling i team: kravinsamling, utveck
 
 [GitHub-repo](https://github.com/sarjoh221/CVProject)
 
+---
+
+# Podcast App
+
+## Om projektet
+Podcast App är en webbaserad applikation utvecklad som ett studentprojekt med syftet att visa upp hur man kan streama och visa podcastinnehåll med en användarvänlig gränssnitt.
+
+## Funktioner
+* Visa och lyssna på podcasts
+* Detaljsida för varje avsnitt
+* Enkel navigering och snygg design
+
+## Teknikstack
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** ASP.NET Core (C#)
+- **Databas:** SQL Server
+
+## Mitt bidrag
+- Utvecklade gränssnittet och kopplade frontend med backend
+- Arbetade med visning av podcastavsnitt
+- Testade och felsökte systemet i samarbete med teamet
+
+[GitHub-repo](https://github.com/sarjoh221/podcast-app)
+
+
