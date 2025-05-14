@@ -19,3 +19,5 @@ Funktioner:
 
 Tekniker:
 ASP.NET Core MVC, C#, Entity Framework Core, SQL Server (Docker), JavaScript, CSS, HTML, Azure DevOps
+
+[GitHub-repo](https://github.com/MMirza123/MotionConnect.git)
