@@ -21,3 +21,38 @@ Tekniker:
 ASP.NET Core MVC, C#, Entity Framework Core, SQL Server (Docker), JavaScript, CSS, HTML, Azure DevOps
 
 [GitHub-repo](https://github.com/MMirza123/MotionConnect.git)
+
+----
+
+# CVProject – Digital CV-plattform
+
+## Beskrivning
+CVProject är en webbaserad applikation skapad som ett grupprojekt under systemvetarutbildningen. 
+Projektets syfte var att utveckla en enkel och professionell plattform där användare kan skapa, redigera och visa ett digitalt CV direkt i webbläsaren.
+
+## Funktionalitet
+* Skapa och hantera användarkonto
+* Lägg till utbildning, erfarenhet, kompetenser och kontaktuppgifter
+* Visa och uppdatera CV i realtid
+* Spara och hämta data från databas
+* Mobilanpassad och responsiv design
+
+## Teknikstack
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** C# med ASP.NET Core / MVC
+- **Databas:** SQL Server
+- **Versionshantering:** Git & GitHub
+- **Utvecklingsmiljö:** Visual Studio, Azure DevOps
+
+## Mitt bidrag
+- Byggde backend-funktionalitet för hantering av CV-data
+- Arbetade med databaskoppling via Entity Framework
+- Designade vyer och förbättrade användargränssnittet
+- Samarbetade aktivt med gruppen via GitHub & DevOps
+- Deltog i kodgranskning och problemlösning
+
+## Lärdomar
+Projektet tränade oss i praktisk systemutveckling i team: kravinsamling, utveckling, versionshantering, testning och leverans. Det gav också djupare förståelse för .NET MVC och hur man bygger en användarvänlig webbapplikation.
+
+[GitHub-repo](https://github.com/sarjoh221/CVProject)
+
